@@ -1,1 +1,1 @@
-#k8s-sample-config
+# k8s-sample-config
